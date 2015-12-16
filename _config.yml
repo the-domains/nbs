@@ -1,14 +1,26 @@
-layout_spectrum: 0.5985663
-typography_spectrum: 0.6666667
 color:
   saturation: 0.7741935
   brandStrength: 0.4964158
-  lightness: 0.7379618
+  rhythmicContrast: 0.9426209
   brandColors:
     - '#171E1F'
     - '#A3B4BE'
     - '#F1EAE0'
     - '#775C1F'
     - '#F2AB78'
-  rhythmicContrast: 0.9426209
+  lightness: 0.7379618
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+layout_spectrum: 0.5985663
+typography_spectrum: 0.6666667
 name: NBS
