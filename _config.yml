@@ -1,0 +1,14 @@
+layout_spectrum: 0.4641577
+color:
+  saturation: 0.7741935
+  brandStrength: 0.4964158
+  lightness: 0.7379618
+  brandColors:
+    - '#171E1F'
+    - '#A3B4BE'
+    - '#F1EAE0'
+    - '#775C1F'
+    - '#F2AB78'
+  rhythmicContrast: 0.9426209
+typography_spectrum: 0.6666667
+name: NBS
