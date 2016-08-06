@@ -1,3 +1,4 @@
+typography_spectrum: 0.6666667
 color:
   saturation: 0.7741935
   brandStrength: 0.4964158
@@ -9,6 +10,8 @@ color:
     - '#775C1F'
     - '#F2AB78'
   lightness: 0.7379618
+layout_spectrum: 0.5985663
+name: NBS
 collections:
   - index:
       path: /
@@ -21,7 +24,5 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-layout_spectrum: 0.5985663
-typography_spectrum: 0.6666667
-name: NBS
 title: New Business Success Ltd
+description: Your Success is Our Business!
