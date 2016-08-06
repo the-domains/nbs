@@ -1,16 +1,16 @@
-typography_spectrum: 0.6666667
+typography_spectrum: 0.4827358666807413
 color:
-  saturation: 0.7741935
-  brandStrength: 0.4964158
-  rhythmicContrast: 0.9426209
+  saturation: 0.776411077240482
+  brandStrength: 0.6413817340508103
+  rhythmicContrast: 0.4732448358554393
   brandColors:
-    - '#171E1F'
-    - '#A3B4BE'
-    - '#F1EAE0'
-    - '#775C1F'
-    - '#F2AB78'
-  lightness: 0.7379618
-layout_spectrum: 0.5985663
+    - '#2C3E50'
+    - '#E74C3C'
+    - '#ECF0F1'
+    - '#3498DB'
+    - '#2980B9'
+  lightness: 0.08224296267144382
+layout_spectrum: 0.26409545727074146
 author:
   name: Gary
   email: Gmmeade@newbsuccess.com
