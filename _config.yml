@@ -11,7 +11,15 @@ color:
     - '#F2AB78'
   lightness: 0.7379618
 layout_spectrum: 0.5985663
+author:
+  name: Gary
+  email: Gmmeade@newbsuccess.com
+  url: www.newbsuccess.com
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/aa09d83c-c99d-4de4-8fef-0d18d254405e.png
 name: NBS
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/50d389f3-e243-448b-a2bf-39b2825f655d.jpg
 collections:
   - index:
       path: /
